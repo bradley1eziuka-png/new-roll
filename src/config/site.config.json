@@ -1,0 +1,101 @@
+{
+  "business": {
+    "name": "Roll With It Painting",
+    "shortName": "",
+    "phone": "(219) 561-4275",
+    "email": "",
+    "address": { "street": "", "city": "", "state": "", "zip": "" },
+    "serviceAreas": ["Northwest Indiana"],
+    "hours": [],
+    "social": {
+      "facebook": "",
+      "instagram": "",
+      "google": "",
+      "yelp": "",
+      "nextdoor": "",
+      "youtube": ""
+    }
+  },
+  "branding": {
+    "logo": { "src": "/logo.png", "alt": "Roll With It Painting logo" },
+    "favicon": "/logo.png",
+    "colors": {},
+    "images": {}
+  },
+  "services": {
+    "enabled": ["interior", "exterior", "cabinet", "pressureWashing", "deckStaining", "commercial"],
+    "overrides": {}
+  },
+  "content": {
+    "hero": {
+      "eyebrow": "Roll With It Painting",
+      "headline": "Northwest Indiana's Painting Professionals",
+      "tagline": "Residential and commercial. Free estimates.",
+      "subheadline": "From a single room to your home's entire exterior, Roll With It Painting delivers careful preparation, clean finishes, and professional service from start to finish."
+    },
+    "about": {
+      "eyebrow": "About Us",
+      "title": "Painting for Homes and Businesses in Northwest Indiana",
+      "body": "Roll With It Painting handles interior, exterior, cabinet, and deck projects for homeowners, along with commercial painting for local businesses. You get a straightforward estimate, clear communication, and painters who treat your property with care.",
+      "badgeTitle": "Free Estimates",
+      "badgeText": "Residential & commercial"
+    },
+    "faqs": [
+      {
+        "q": "How do I get a free estimate?",
+        "a": "Fill out the estimate form on this page or call (219) 561-4275. Tell us what you'd like painted and we'll talk through the next steps."
+      },
+      {
+        "q": "Do you paint both homes and businesses?",
+        "a": "Yes. We do residential painting, including interiors, exteriors, cabinets, and decks, as well as commercial painting for business owners."
+      },
+      {
+        "q": "What areas do you serve?",
+        "a": "We work across Northwest Indiana. If you're not sure whether your location is covered, call and ask."
+      },
+      {
+        "q": "How should I get ready for a painting project?",
+        "a": "If you can, clear the area of furniture and wall hangings, and let us know about any concerns up front. We'll take care of the prep and tell you what to expect along the way."
+      },
+      {
+        "q": "Can you do more than one service on the same project?",
+        "a": "Yes. Many projects combine services, like pressure washing before exterior painting or staining. Tell us everything you have in mind and we'll plan it together."
+      }
+    ],
+    "footerBlurb": "Interior, exterior, cabinet, and deck painting for homeowners and businesses across Northwest Indiana.",
+    "finalCta": {
+      "title": "Ready to Get Your Painting Project Started?",
+      "body": "Tell us a little about your project, and we'll help you figure out the next steps. Request your free estimate today."
+    },
+    "testimonials": [
+      {
+        "quote": "Patrick was very professional and efficient! No surprises! Responded for quote quickly once we notified him and initiated the job expeditiously. Completed job according to timeline. Very focused to detail including correcting flaws from previous paint jobs. My wife and I highly recommend Roll With It Painting!",
+        "author": "Ruth F.",
+        "detail": "Interior Painting · La Porte, Indiana"
+      },
+      {
+        "quote": "Patrick with Roll with it Painting painted the outside of my house last summer. He did an excellent job and was easy to work with. I would use him again!",
+        "author": "Carl W.",
+        "detail": "Exterior Painting · La Porte, Indiana"
+      },
+      {
+        "quote": "They did a beautiful job. It was completed in 2 days! They were very professional doing the job. I would highly recommend them.",
+        "author": "Nancy W.",
+        "detail": "Exterior Painting · La Porte, Indiana"
+      }
+    ]
+  },
+  "seo": {
+    "siteUrl": "",
+    "title": "Roll With It Painting | Painting Contractor in Northwest Indiana",
+    "description": "Interior, exterior, cabinet, and deck painting, pressure washing, and commercial painting across Northwest Indiana. Request a free estimate from Roll With It Painting.",
+    "ogImage": "",
+    "locale": "en_US"
+  },
+  "form": {
+    "provider": "demo",
+    "formspreeId": "",
+    "webhookUrl": "",
+    "showDemoNotice": true
+  }
+}
